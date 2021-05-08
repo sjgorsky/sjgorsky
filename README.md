@@ -1,7 +1,13 @@
-<h3 align="center">Hi 👋, I'm Scott</h3>
-<h4 align="center">- 🔭 I’m currently working on an app to help you find independent bookstores</h4>
+<h1 align="center">Hi 👋, I'm Scott Gorsky</h1>
+<h3 align="center">Software Developer in Chicago, IL</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjgorsky" alt="sjgorsky" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cook2coder" target="blank"><img src="https://img.shields.io/twitter/follow/cook2coder?logo=twitter&style=for-the-badge" alt="cook2coder" /></a> </p>
+
+- 🔭 I’m currently working on **an app to help you find independent bookstores**
+
+- 📫 How to reach me **sgorsky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,19 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjgorsky&show_icons=true&locale=en" alt="sjgorsky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjgorsky&" alt="sjgorsky" /></p>
-
-
-<!--
-**sjgorsky/sjgorsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
