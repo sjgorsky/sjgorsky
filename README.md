@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi 👋, I'm Scott</h3>
+<h4 align="center">- 🔭 I’m currently working on an app to help you find independent bookstores</h4>
 
 <p align="left"> <a href="https://twitter.com/cook2coder" target="blank"><img src="https://img.shields.io/twitter/follow/cook2coder?logo=twitter&style=for-the-badge" alt="cook2coder" /></a> </p>
 
