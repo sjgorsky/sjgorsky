@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Scott Gorsky</h1>
 <h3 align="center">Software Developer in Chicago, IL</h3>
 
-<p align="left"> <a href="https://twitter.com/cook2coder" target="blank"><img src="https://img.shields.io/twitter/follow/cook2coder?logo=twitter&style=for-the-badge" alt="cook2coder" /></a> </p>
-
 - 🔭 I’m currently working on **an app to help you find independent bookstores**
 
 - 📫 How to reach me **sgorsky@gmail.com**
