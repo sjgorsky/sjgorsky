@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an app to help you find independent bookstores**
 
-- 📫 How to reach me **sgorsky@gmail.com**
+- 📫 Email me at **sgorsky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
