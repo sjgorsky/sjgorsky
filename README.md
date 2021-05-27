@@ -39,8 +39,8 @@
  </tr></table> 
  </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjgorsky&show_icons=true&locale=en&layout=compact" alt="sjgorsky" /></p>
+//<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjgorsky&show_icons=true&locale=en&layout=compact" alt="sjgorsky" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjgorsky&show_icons=true&locale=en" alt="sjgorsky" /></p>
+//<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjgorsky&show_icons=true&locale=en" alt="sjgorsky" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sjgorsky&" alt="sjgorsky" /></p>
+//<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sjgorsky&" alt="sjgorsky" /></p>
