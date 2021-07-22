@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Scott Gorsky</h1>
+<h1 align="center">Hello 👋, I'm Scott Gorsky</h1>
 <h3 align="center">Full-Stack Web Developer in Chicago, IL</h3>
 
 - 🔭 I’m currently working on **an app to help you find independent bookstores**
