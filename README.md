@@ -13,7 +13,7 @@
 </a> </a>
 </p>
 
-<h2 align="center">Skill Set</h2>
+<h2 align="center">Languages</h2>
 <div align="center" width="100%"> 
 <table><tr><td valign="top" width="50%">
  
