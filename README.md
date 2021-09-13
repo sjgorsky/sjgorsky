@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Scott</h1>
-<h3 align="center">Full Stack Web Developer in Chicago, IL</h3>
+<h3 align="center">Full Stack Software Engineer in Chicago, IL</h3>
 
-- 🔭 I’m currently working on **pasta-related React app**
-
+- 🔭 I’m currently working on **pasta-related ⚛️React⚛️ app**
+- 📕 I'm also learning Ruby on Rails
 - 📫 Email me at **sgorsky@gmail.com**
 
 <h3 align="left">Let's connect:</h3>
