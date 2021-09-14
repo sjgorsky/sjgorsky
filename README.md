@@ -38,4 +38,3 @@
  
  </tr></table> 
  </div>
- ![](https://komarev.com/ghpvc/?username=sjgorsky)
