@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer in Chicago, IL</h3>
 
 - 🔭 I’m currently working on **pasta-related React app**
-- 📕 I'm also learning Ruby on Rails
+- 📕 Studying Ruby on Rails
 - 📫 Email me at **sgorsky@gmail.com**
 
 <h3 align="left">Let's connect:</h3>
