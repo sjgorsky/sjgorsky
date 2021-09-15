@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **pasta-related React app**
 - 📕 Studying Ruby on Rails
-- 📫 Email me at **sgorsky@gmail.com**
+- 📫 Email: **sgorsky@gmail.com**
 
 <h3 align="left">Let's connect:</h3>
 <p align="center">
