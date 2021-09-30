@@ -6,7 +6,7 @@
 - 📕 Currently studying Ruby on Rails
 - 📫 Email me at **sgorsky@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect:</h3>
 <p align="center">
 <p align="left"> <a href="https://twitter.com/cook2coder" target="_blank"><img src="https://img.shields.io/twitter/follow/cook2coder?logo=twitter&style=for-the-badge" alt="cook2coder" /></a> </p>
 <a href="https://www.linkedin.com/in/scottjgorsky/" target="_blank">
