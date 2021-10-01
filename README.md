@@ -3,7 +3,7 @@
 
 - 🚀 Lifelong learner passionate about finding mentorship opportunities
 - 👨‍💻 Working on a **pasta-related React app**
-- 📕 Currently studying Ruby on Rails
+- 📕 Currently studying **Ruby on Rails**
 - 📫 Email me at **sgorsky@gmail.com**
 
 <h3 align="left">Let's connect:</h3>
