@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Scott</h1>
-<h3 align="center">Full Stack Software Engineer in Chicago, IL</h3>
+<h2 align="center">Full Stack Software Engineer in Chicago, IL</h2>
 
 - 🚀 Lifelong learner passionate about finding mentorship opportunities
 - 👨‍💻 Working on a **pasta-related React app**
