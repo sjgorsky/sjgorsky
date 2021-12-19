@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Scott</h1>
+<h1 align="center">Hey 👋, I'm Scott</h1>
 <h2 align="center">Full Stack Software Engineer in Chicago, IL</h2>
 
 - 🚀 Lifelong learner passionate about finding mentorship opportunities
