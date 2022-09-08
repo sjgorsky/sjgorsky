@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<p align="left"> <a href="https://twitter.com/cook2coder" target="_blank"><img src="https://img.shields.io/twitter/follow/cook2coder?logo=twitter&style=for-the-badge" alt="cook2coder" /></a> </p>
 <a href="https://www.linkedin.com/in/scottjgorsky/" target="_blank">
 <img align="center" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> </a>
