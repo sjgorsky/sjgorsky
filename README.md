@@ -2,8 +2,6 @@
 <h2 align="center">Full Stack Software Engineer in Chicago, IL</h2>
 
 - 🚀 Lifelong learner passionate about finding mentorship opportunities
-- 👨‍💻 Building a **Cookbook Tracker Rails app**
-- 📕 Currently studying **Ruby on Rails**
 - 📫 Email: **sgorsky@gmail.com**
 
 
