@@ -26,7 +26,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /> 
 
 </div>
-</td><td valign="top" width="50%">
+</td><td valign="top" width="80%">
  
  <h1 align="center">Back End</h1> 
  
