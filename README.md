@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Scott</h1>
 <h2 align="center">Full Stack Software Engineer in Chicago, IL</h2>
-<h2 align="center">[Personal Portfolio](https://scottgorsky-portfolio.vercel.app/)</h2>
+<h2 align="center"><a href="https://scottgorsky-portfolio.vercel.app/">Personal Portfolio</a></h2>
 
 <ul>
     <li>🚀 Lifelong learner passionate about finding mentorship opportunities</li>
